@@ -14,7 +14,7 @@ Email: 231b351@juetguna.in
 
 
 
-<Solution code to part F>
+Solution code to part F
 
 public class GTN{
 
